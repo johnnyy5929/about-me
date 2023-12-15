@@ -16,6 +16,12 @@ Schedule
 4. Ap world
 5. SEP10
 6. English
-7. 
-8.
+7. Chemistry
+8. Lunch
+
+Teacher
+
+Spainsh=Galland
+BHP=Adriane Musacchio
+
 
