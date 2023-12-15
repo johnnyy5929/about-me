@@ -21,7 +21,17 @@ Schedule
 
 Teacher
 
-Spainsh=Galland
-BHP=Adriane Musacchio
+Spainsh= Mr.Galland
 
+BHP= Ms.Musacchio
+
+Math= Mr.Zheng
+
+Ap world= Mr.Shapiro
+
+SEP10= Mr.Mueller
+
+English= Ms.Brown and Ms.Ahmetaj
+
+Chemistry= Ms. Torres
 
