@@ -10,28 +10,28 @@ I am Johnny a student in Hstat, I am in sep 10. You should call me he/him and I 
 
 Schedule
 
-1. Spainsh
-2. BHP
-3. Math
-4. Ap world
-5. SEP10
-6. English
-7. Chemistry
-8. Lunch
+1. **Spainsh**
+2. **BHP**
+3. **Math**
+4. **Ap world**
+5. **SEP10**
+6. **English**
+7. **Chemistry**
+8. **Lunch**
 
 Teacher
 
-Spainsh= Mr.Galland
+Spainsh= _Mr.Galland_
 
-BHP= Ms.Musacchio
+BHP= _Ms.Musacchio_
 
-Math= Mr.Zheng
+Math= _Mr.Zheng_
 
-Ap world= Mr.Shapiro
+Ap world= _Mr.Shapiro_
 
-SEP10= Mr.Mueller
+SEP10= _Mr.Mueller_
 
-English= Ms.Brown and Ms.Ahmetaj
+English= _Ms.Brown_ and _Ms.Ahmetaj_
 
-Chemistry= Ms. Torres
+Chemistry= _Ms. Torres_
 
