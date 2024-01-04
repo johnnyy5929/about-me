@@ -6,7 +6,7 @@
 
 [JOhnyy9@nycstudents.net](https://johnnyy5929.github.io/)
 
-I am Johnny a student in Hstat, I am in sep 10. You should call me he/him and I was born in nyc, being here since birth, haven't move at all.
+I am Johnny a student in Hstat. I am in sep 10. You should call me he/him and I was born in nyc, been here since birth, haven't move at all.
 
 Schedule
 
